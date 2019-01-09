@@ -7,6 +7,8 @@ Features
 
 Show the number of subscriptions of current top two channels on You Tube i.e. TSeries and PewDiePie.
 
+On clicking takes you tpo the resprective channels
+
 Show the difference in number of subscriptions in real time.
 
 A bar graph showing number of subscriptions graphically.
