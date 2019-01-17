@@ -8,7 +8,6 @@ Reactnative caught my interest so started learning it even before droid wars sta
 It was great opportunity for me as learning javascript and knowing the various libraries in reactnative.
 I found a course on udemy.com lectures by Stephen Grinder
 I spend the first 20 days of vacations learning this.
-I was glad to know the droid wars provide an opportunity to build an application in reactnative
 I was overwelhmed so i started with WarTube.
 First I started with frontend, designing the home page, login page, comments sections.
 The problem that i faced was making the api request to fetch the data of the top two channels of youtube.First I had to generate api key which I created using google credentials. I first used axios to make request but caught the error "bad request".
